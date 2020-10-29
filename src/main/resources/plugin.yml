@@ -1,0 +1,5 @@
+name: HelpMe
+version: ${project.version}
+main: dev.kscott.helpme.HelpMe
+api-version: 1.16
+description: An intuitive help/info menu solution for your players.
